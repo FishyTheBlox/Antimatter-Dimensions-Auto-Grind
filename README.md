@@ -39,3 +39,14 @@ Shift+2: Toggle Hold Crunch
 Shift+3: Toggle Auto Tab
 
 Shift+4: Toggle Rebirths
+
+
+
+### This is for Version 1.1B and higher.
+Ctrl+1: Tab 1 (Delays)
+
+Ctrl+2: Tab 2 (Keybinds)
+
+Ctrl+3: Tab 3 (Controls)
+
+Ctrl+4: Tab 4 (Credits)
