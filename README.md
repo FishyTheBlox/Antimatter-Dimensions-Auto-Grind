@@ -1,5 +1,6 @@
 # Antimatter Dimensions Auto-Grind
 This is used for automatically grinding in Antimatter Dimensions. It bypasses the Auto-Grind built-in limits.
+Requirements: AutoHotKey 2.0 (64-bit)
 
 
 
